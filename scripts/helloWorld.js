@@ -1,2 +1,1 @@
-const heading = document.querySelector('hi');
-heading.textContent = "Hello World!"
+alert("Hello World this is an alert")
